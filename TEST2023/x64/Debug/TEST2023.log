@@ -1,0 +1,5 @@
+﻿  MainTrain.cpp
+C:\Users\moran\source\repos\moran\TEST2023\Q1.h(21,22): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\moran\source\repos\moran\TEST2023\Q1.h(29,22): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\moran\source\repos\moran\TEST2023\MainTrain.cpp(88,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\moran\source\repos\moran\TEST2023\Q2.h(120): error C4703: potentially uninitialized local pointer variable 's' used

@@ -1,0 +1,7 @@
+﻿  Grid.cpp
+  Maintrain.cpp
+  Point.cpp
+  Rectangle.cpp
+  Generating Code...
+C:\Users\moran\source\repos\moran\try\Grid.cpp(48): warning C4715: 'Grid::getRectAtPoint': not all control paths return a value
+  try.vcxproj -> C:\Users\moran\source\repos\moran\x64\Debug\try.exe

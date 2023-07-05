@@ -1,0 +1,4 @@
+﻿  str.cpp
+C:\Users\moran\source\repos\moran\ex3\str.cpp(121,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\moran\source\repos\moran\ex3\str.cpp(57): warning C4715: 'Str::operator[]': not all control paths return a value
+  ex3.vcxproj -> C:\Users\moran\source\repos\moran\x64\Debug\ex3.exe

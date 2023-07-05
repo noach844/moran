@@ -1,0 +1,3 @@
+﻿  mainTrain.cpp
+C:\Users\moran\source\repos\moran\test18\PlayList.h(37,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  test18.vcxproj -> C:\Users\moran\source\repos\moran\x64\Debug\test18.exe
