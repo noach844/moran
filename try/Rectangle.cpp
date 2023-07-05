@@ -53,3 +53,5 @@ void Rectangle::scaleRect(double rectWidth, double rectHeight)
     _bottomRight.setScaleX(rectWidth / currentScaleX);
     _bottomRight.setScaleY(rectHeight / currentScaleY);
 }
+
+//omer
